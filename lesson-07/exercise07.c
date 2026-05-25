@@ -10,6 +10,7 @@
  * - malloc でメモリを確保すること
  * - malloc 後は必ず NULL チェックをすること
  * - 最後に free でメモリを解放すること
+ * aaaaa
  */
 
 #include <stdio.h>
